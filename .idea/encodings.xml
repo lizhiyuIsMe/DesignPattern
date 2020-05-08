@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/action/interpreter/AddExpression.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/action/interpreter/Calculator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/action/interpreter/ClientTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/action/interpreter/Expression.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/action/interpreter/SubExpression.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/action/interpreter/SymbolExpression.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/action/interpreter/VarExpression.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/prototype/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/prototype/Sheep.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/prototype/deepclone/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/prototype/deepclone/DeepCloneableTarget.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/prototype/deepclone/DeepProtoType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/prototype/improve/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/prototype/improve/Sheep.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/single/type1/SingletonTest01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/single/type2/SingletonTest02.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/single/type3/SingletonTest03.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/single/type4/SingletonTest04.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/single/type6/SingletonTest06.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/single/type7/SingletonTest07.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/create/single/type8/SingletonTest08.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/flyweight/WebSiteFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/cglib/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/cglib/ProxyFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/cglib/TeacherDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/cglib/asm-commons.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/cglib/asm-tree.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/cglib/asm.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/cglib/cglib-2.2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/dynamic/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/dynamic/ITeacherDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/dynamic/ProxyFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/dynamic/TeacherDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/staticproxy/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/staticproxy/ITeacherDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/staticproxy/TeacherDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/struct/proxy/staticproxy/TeacherDaoProxy.java" charset="GBK" />
+  </component>
+</project>

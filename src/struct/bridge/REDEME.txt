@@ -1,0 +1,24 @@
+桥接设计模式
+你要用一个手机(手机要有 开和关 的功能)
+你的手机可以是  华为、小米、苹果 品牌 brand
+可以是 触屏、按键
+我们应该如何实现呢,这是就用到了桥接模式
+
+
+jdkc 将接口提供给了数据库各大厂商,让他们实现接口,我们使用不同数据库直接导入不同的jar包即可使用
+
+interface Brand--------------交给厂商实现
+   function close
+   function open
+
+abstract Phone
+   private Brand brand;//品牌
+   close(){ brand.close();}
+   open(){ brand.open();}
+
+
+Class 平板Phone 触屏Phone extends Phone -------在这里设置brand属性
+
+
+
+

@@ -1,0 +1,6 @@
+迭代器设计模式
+主要是单一执行原则,将对象中的同样功能的方法 提取出来,然后每个类再去实现
+
+jdk中的迭代器
+实现了 iterable 接口 要求返回一个 iterator 对象
+iterator中有hasnext方法,next方法等

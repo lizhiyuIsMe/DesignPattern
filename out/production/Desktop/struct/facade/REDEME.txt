@@ -1,0 +1,18 @@
+外观设计模式(门面模式)
+
+我们上医院去看医生  要挂号,看医生,治病
+原来执行代码
+public void test(){
+   ModuleA moduleA=new ModuleA();
+   moduleA.testA();
+   ModuleB moduleB=new ModuleB();
+   moduleB.testB();
+   ModuleC moduleC=new ModuleC();
+   moduleC.testC();
+}
+变成
+public static void main(String[] args){
+      Facade facade=new Facade();
+      facade.test();
+}
+也就是帮我们了一系列事情
